@@ -1,3 +1,75 @@
+# Daftar Isi
+
+## [I. Peta Konseptual: Arsitektur Tiga Kritik Kant dan Posisi *Critique of Judgment*](#peta-konseptual-arsitektur-tiga-kritik-kant-dan-posisi-critique-of-judgment)
+- [Dua Aspek Setiap Persoalan dalam Filsafat Kant](#dua-aspek-setiap-persoalan-dalam-filsafat-kant)
+- ["Jurang" (Chasm) antara Alam dan Kebebasan](#jurang-chasm-antara-alam-dan-kebebasan)
+- [Dua Jalan bagi Pembaca Serius Kant](#dua-jalan-bagi-pembaca-serius-kant)
+- [Tiga Perkembangan Modern yang Membuat Analisis Kant Relevan](#tiga-perkembangan-modern-yang-membuat-analisis-kant-relevan)
+- [Kontribusi Pluhar sebagai Penerjemah](#kontribusi-pluhar-sebagai-penerjemah)
+- [Alur Keseluruhan Segmen: Dari Latar Belakang ke Apresiasi](#alur-keseluruhan-segmen-dari-latar-belakang-ke-apresiasi)
+
+## [II. Peta Pertarungan Epistemologis: Rasionalisme vs Empirisme vs Kant](#peta-pertarungan-epistemologis-rasionalisme-vs-empirisme-vs-kant)
+- [Klasifikasi Penilaian (Judgments) menurut Kant](#klasifikasi-penilaian-judgments-menurut-kant)
+- [Bukti dari Geometri: Mengapa Pengetahuan Sintetik A Priori Nyata](#bukti-dari-geometri-mengapa-pengetahuan-sintetik-a-priori-nyata)
+- [Jawaban Kant: Ruang dan Waktu sebagai Bentuk Intuisi](#jawaban-kant-ruang-dan-waktu-sebagai-bentuk-intuisi)
+- [12 Kategori Pemahaman (Categories of Understanding)](#12-kategori-pemahaman-categories-of-understanding)
+- [Implikasi: Metafisika yang Mungkin vs Tidak Mungkin](#implikasi-metafisika-yang-mungkin-vs-tidak-mungkin)
+- [Revolusi Kopernikan Kant — Ringkasan Visual](#revolusi-kopernikan-kant--ringkasan-visual)
+
+## [III. Arsitektur Pengetahuan Menurut Kant](#arsitektur-pengetahuan-menurut-kant)
+1. [Kant vs Rasionalis: Hakikat Sensibilitas](#1-kant-vs-rasionalis-hakikat-sensibilitas)
+2. [Struktur Intuisi Empiris: Materi + Bentuk](#2-struktur-intuisi-empiris-materi--bentuk)
+3. [Dari Intuisi ke Penilaian Determinatif](#3-dari-intuisi-ke-penilaian-determinatif)
+4. [Pemerolehan Konsep Baru Melalui Ekspansi](#4-pemerolehan-konsep-baru-melalui-ekspansi)
+5. [Kategori Sebagai Fondasi Semua Konsep Empiris](#5-kategori-sebagai-fondasi-semua-konsep-empiris)
+6. [Peran Imajinasi: Jembatan antara Intuisi dan Konsep](#6-peran-imajinasi-jembatan-antara-intuisi-dan-konsep)
+7. [Eksibisi A Priori dan Konstruksi](#7-eksibisi-a-priori-dan-konstruksi)
+8. [Abstraksi dan Keunggulan Kategori](#8-abstraksi-dan-keunggulan-kategori)
+9. [Alur Keseluruhan: Arsitektur Pengetahuan Kant](#9-alur-keseluruhan-arsitektur-pengetahuan-kant)
+
+## [IV. Masalah Skematisme: Jembatan antara Konsep dan Intuisi](#masalah-skematisme-jembatan-antara-konsep-dan-intuisi)
+1. [Masalah Skematisme: Bagaimana Kategori Menempel pada Intuisi?](#1-masalah-skematisme-bagaimana-kategori-menempel-pada-intuisi)
+2. [Mengapa Waktu Menjadi Medium Universal?](#2-mengapa-waktu-menjadi-medium-universal)
+3. [Hierarki Hukum Alam](#3-hierarki-hukum-alam)
+4. [Tiga Penggunaan Prinsip](#4-tiga-penggunaan-prinsip)
+5. [Batas Pengetahuan Teoretis](#5-batas-pengetahuan-teoretis)
+6. [Ide-Ide Akal (Ideas of Reason)](#6-ide-ide-akal-ideas-of-reason)
+7. [Regulatif vs Konstitutif](#7-regulatif-vs-konstitutif)
+8. [Antinomi dan Jebakan Akal](#8-antinomi-dan-jebakan-akal)
+9. [Kesimpulan: Metafisika Imanen vs Transenden](#9-kesimpulan-metafisika-imanen-vs-transenden)
+10. [Alur Keseluruhan: Proyek Critique of Pure Reason](#10-alur-keseluruhan-proyek-critique-of-pure-reason)
+
+## [V. Klaim Universalitas Subjektif dalam Penilaian Rasa](#klaim-universalitas-subjektif-dalam-penilaian-rasa)
+1. [Universalitas Subjektif: Tuntutan Unik Penilaian Rasa](#1-universalitas-subjektif-tuntutan-unik-penilaian-rasa)
+2. [Dua Jenis Penilaian Estetis](#2-dua-jenis-penilaian-estetis)
+3. [Penilaian Determinatif vs Reflektif](#3-penilaian-determinatif-vs-reflektif)
+4. [Pencarian Universal dan Konsep Indeterminate](#4-pencarian-universal-dan-konsep-indeterminate)
+5. [Purposiveness vs Purpose](#5-purposiveness-vs-purpose)
+6. [Keteraturan Kontingen dalam Alam](#6-keteraturan-kontingen-dalam-alam)
+7. [Hierarki Genera dan Spesies dalam Alam](#7-hierarki-genera-dan-spesies-dalam-alam)
+8. ["Seolah-Olah" (Als Ob) — Formulasi Kunci Kant](#8-seolah-olah-als-ob--formulasi-kunci-kant)
+9. [Pencocokan: Imajinasi — Pemahaman — Daya Penilaian](#9-pencocokan-imajinasi--pemahaman--daya-penilaian)
+10. [Prinsip Daya Penilaian = Penilaian Reflektif Itu Sendiri](#10-prinsip-daya-penilaian--penilaian-reflektif-itu-sendiri)
+11. [Alur Keseluruhan: Keunikan Penilaian Rasa](#11-alur-keseluruhan-keunikan-penilaian-rasa)
+
+## [VI. Visualisasi: Penilaian Teleologis dalam *Critique of Judgment* Kant](#visualisasi-penilaian-teleologis-dalam-critique-of-judgment-kant)
+- [Peta Besar Argumen](#peta-besar-argumen)
+- [1. Dua Teknik Alam](#1-dua-teknik-alam)
+- [2. Pembagian Kerja Kemampuan Kognitif](#2-pembagian-kerja-kemampuan-kognitif)
+- [3. Estetis vs. Teleologis — Kontras Lengkap](#3-estetis-vs-teleologis--kontras-lengkap)
+- [4. Tesis Utama: Letak Konseptual Final Causes](#4-tesis-utama-letak-konseptual-final-causes)
+- [5. Asimetri: Produk Seni vs. Produk Alam](#5-asimetri-produk-seni-vs-produk-alam)
+- [6. Distinksi Krusial: Spontan vs. Intensional](#6-distinksi-krusial-spontan-vs-intensional)
+- [7. Argumen tentang Organisme — Mengapa Mekanisme Tidak Cukup](#7-argumen-tentang-organisme--mengapa-mekanisme-tidak-cukup)
+- [8. Peta Status Epistemologis — Empat Posisi](#8-peta-status-epistemologis--empat-posisi)
+- [9. Alur Logis Keseluruhan](#9-alur-logis-keseluruhan)
+- [10. Reflective vs. Determinative Judgment](#10-reflective-vs-determinative-judgment)
+- [11. Jalan Tengah Kantian](#11-jalan-tengah-kantian)
+- [12. Ringkasan Final: Satu Diagram](#12-ringkasan-final-satu-diagram)
+- [Catatan Penutup](#catatan-penutup)
+
+---
+
 # Peta Konseptual: Arsitektur Tiga Kritik Kant dan Posisi *Critique of Judgment*
 
 ```
@@ -1666,3 +1738,602 @@
   │                                                                  │
   └──────────────────────────────────────────────────────────────────┘
 ```
+
+# Visualisasi: Penilaian Teleologis dalam *Critique of Judgment* Kant
+
+---
+
+## PETA BESAR ARGUMEN
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                    CRITIQUE OF JUDGMENT — PENILAIAN TELEOLOGIS              │
+│                                                                             │
+│   Pertanyaan sentral:                                                       │
+│   "Bagaimana kita bisa bicara tentang TUJUAN di alam                        │
+│    tanpa jatuh ke spekulasi metafisik?"                                     │
+│                                                                             │
+│   Jawaban Kant:                                                             │
+│   Teleologi = MAKSIM REFLEKTIF judgment untuk dirinya sendiri               │
+│   (bukan klaim tentang alam, bukan data empiris)                            │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 1. DUA TEKNIK ALAM
+
+```
+                         TEKNIK ALAM
+                             │
+              ┌──────────────┴──────────────┐
+              │                             │
+     ┌────────┴────────┐          ┌────────┴────────┐
+     │  TEKNIK FORMAL  │          │  TEKNIK REAL    │
+     │  (Estetis)      │          │  (Teleologis)   │
+     └────────┬────────┘          └────────┬────────┘
+              │                             │
+     Purposiveness                 Purposiveness
+     dalam INTUISI                 dalam KONSEP
+              │                             │
+     Bentuk-bentuk yang            Hal-hal dipandang
+     membuat imajinasi &           sebagai NATURAL
+     understanding                 PURPOSES
+     berharmoni                            │
+              │                             │
+     Contoh: keindahan             Contoh: ORGANISME
+     bunga, kristal                (jantung, mata, dll)
+              │                             │
+     Judgment bisa                 Judgment TIDAK bisa
+     menemukan &                   menemukan a priori
+     mengonstruksi                 → butuh HUKUM EMPIRIS
+     A PRIORI                      → butuh bantuan REASON
+```
+
+---
+
+## 2. PEMBAGIAN KERJA KEMAMPUAN KOGNITIF
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                    TIGA KEMAMPUAN KOGNITIF                       │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  ┌──────────────┐   ┌──────────────┐   ┌──────────────┐        │
+│  │  IMAJINASI   │   │ UNDERSTANDING│   │    REASON    │        │
+│  │ (Einbildungs-│   │  (Verstand)  │   │  (Vernunft)  │        │
+│  │    kraft)    │   │              │   │              │        │
+│  └──────┬───────┘   └──────┬───────┘   └──────┬───────┘        │
+│         │                  │                   │                │
+│         │    ESTETIKA      │                   │                │
+│         │◄────────────────►│                   │                │
+│         │  (harmoni tanpa  │                   │                │
+│         │   konsep)        │                   │                │
+│         │                  │                   │                │
+│         │                  │    TELEOLOGI      │                │
+│         │                  │◄─────────────────►│                │
+│         │                  │  (understanding   │                │
+│         │                  │   + reason via    │                │
+│         │                  │   konsep tujuan)  │                │
+│         │                  │                   │                │
+│  ┌──────┴──────────────────┴───────────────────┴──────┐         │
+│  │              JUDGMENT (Urteilskraft)                │         │
+│  │     = penengah yang menghubungkan semuanya          │         │
+│  └────────────────────────────────────────────────────┘         │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+### Kapan masing-masing kemampuan dibutuhkan:
+
+```
+Pengalaman biasa ──────► Understanding saja      ✓ (cukup)
+                         Reason?                  ✗ (tidak perlu)
+
+Penilaian estetis ─────► Imajinasi + Understanding ✓
+                         Reason?                    ✗ (tidak perlu)
+
+Penilaian teleologis ──► Understanding + REASON    ✓ (WAJIB)
+                         Judgment harus "memanggil" reason
+                         untuk konsep TUJUAN
+```
+
+---
+
+## 3. ESTETIS vs. TELEOLOGIS — KONTRAS LENGKAP
+
+```
+┌───────────────────────────────────────────────────────────────────────────┐
+│                                                                           │
+│         PENILAIAN ESTETIS              PENILAIAN TELEOLOGIS               │
+│         ═══════════════════            ════════════════════                │
+│                                                                           │
+│  ┌─────────────────────────┐    ┌─────────────────────────┐              │
+│  │ Konsep objek?           │    │ Konsep objek?           │              │
+│  │ TIDAK diandaikan        │    │ DIANDAIKAN              │              │
+│  │ TIDAK dihasilkan        │    │                         │              │
+│  └─────────────────────────┘    └─────────────────────────┘              │
+│                                                                           │
+│  ┌─────────────────────────┐    ┌─────────────────────────┐              │
+│  │ Tipe purposiveness:     │    │ Tipe purposiveness:     │              │
+│  │ FIGURATIF               │    │ ORGANIK                 │              │
+│  │ (bagi SUBJEK)           │    │ (bagi KEMUNGKINAN       │              │
+│  │                         │    │  OBJEK ITU SENDIRI)     │              │
+│  └─────────────────────────┘    └─────────────────────────┘              │
+│                                                                           │
+│  ┌─────────────────────────┐    ┌─────────────────────────┐              │
+│  │ Teknik alam:            │    │ Teknik alam:            │              │
+│  │ TECHNICA SPECIOSA       │    │ ORGANIC TECHNIC         │              │
+│  │ (teknik figuratif)      │    │ (teknik organik)        │              │
+│  └─────────────────────────┘    └─────────────────────────┘              │
+│                                                                           │
+│  ┌─────────────────────────┐    ┌─────────────────────────┐              │
+│  │ Arah purposiveness:     │    │ Arah purposiveness:     │              │
+│  │ → cara kita MENYAJIKAN │    │ → kemungkinan HAL ITU   │              │
+│  │   objek                 │    │   SENDIRI               │              │
+│  └─────────────────────────┘    └─────────────────────────┘              │
+│                                                                           │
+│  ┌─────────────────────────┐    ┌─────────────────────────┐              │
+│  │ Klaim ontologis tentang │    │ Klaim ontologis tentang │              │
+│  │ intensi alam?           │    │ intensi alam?           │              │
+│  │ TIDAK                   │    │ TIDAK                   │              │
+│  └─────────────────────────┘    └─────────────────────────┘              │
+│                                                                           │
+└───────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 4. TESIS UTAMA: LETAK KONSEPTUAL FINAL CAUSES
+
+```
+                    Di mana KONSEP FINAL CAUSES berada?
+
+        ┌──────────────┐     ┌──────────────┐     ┌──────────────┐
+        │UNDERSTANDING │     │   JUDGMENT   │     │    REASON    │
+        │              │     │              │     │              │
+        │    ✗ BUKAN   │     │   ✓ DI SINI  │     │   ✗ BUKAN   │
+        │   di sini    │     │              │     │   di sini    │
+        └──────────────┘     └──────┬───────┘     └──────────────┘
+                                    │
+                                    ▼
+                    ┌───────────────────────────────┐
+                    │  Konsep final causes di alam  │
+                    │  HANYA milik JUDGMENT         │
+                    │                               │
+                    │  Bukan understanding           │
+                    │  (yang memberi hukum pada     │
+                    │   alam via kategori)          │
+                    │                               │
+                    │  Bukan reason                  │
+                    │  (yang membuat inferensi      │
+                    │   melampaui pengalaman)       │
+                    └───────────────────────────────┘
+```
+
+### Mengapa bukan milik reason?
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  ARGUMEN KANT:                                                  │
+│                                                                 │
+│  JIKA konsep natural purpose dipakai secara OBJEKTIF            │
+│  (= natural INTENTION = alam benar-benar berniat)               │
+│       │                                                         │
+│       ▼                                                         │
+│  MAKA itu sudah melibatkan INFERENSI/PENALARAN                  │
+│       │                                                         │
+│       ▼                                                         │
+│  MAKA itu TIDAK bisa berbasis pengalaman                        │
+│       │                                                         │
+│       ▼                                                         │
+│  KARENA: pengalaman bisa menunjukkan TUJUAN                     │
+│          tetapi TIDAK PERNAH bisa membuktikan                   │
+│          bahwa tujuan itu juga INTENSI                          │
+│       │                                                         │
+│       ▼                                                         │
+│  ┌─────────────────────────────────────────────┐                │
+│  │ "Ini berfungsi seakan untuk tujuan X"       │                │
+│  │              ≠                               │                │
+│  │ "Ada yang BERNIAT X"                        │                │
+│  │                                             │                │
+│  │ Lompatan kedua = MELAMPAUI pengalaman       │                │
+│  └─────────────────────────────────────────────┘                │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 5. ASIMETRI: PRODUK SENI vs. PRODUK ALAM
+
+```
+      PRODUK SENI (Artefak)              PRODUK ALAM (Organisme)
+      ══════════════════════             ══════════════════════════
+
+   Saya membuat cangkir                 Mata "membuat" penglihatan
+         │                                      │
+         ▼                                      ▼
+   Saya TAHU reason saya               Kita TIDAK TAHU apakah ada
+   adalah SEBAB cangkir itu            "reason" yang menjadi sebab
+         │                                      │
+         ▼                                      ▼
+   Kausalitas reason =                  Kausalitas reason alam =
+   SESUAI pengalaman kita              TIDAK ditemukan dalam
+   tentang daya kita sendiri           pengalaman
+         │                                      │
+         ▼                                      ▼
+   ┌──────────────────┐                ┌──────────────────┐
+   │ Kita SAH berkata:│                │ Kita TIDAK SAH   │
+   │ "Ini purposif    │                │ berkata:          │
+   │  karena saya     │                │ "Alam berniat    │
+   │  membuatnya      │                │  membuat ini"    │
+   │  dengan tujuan"  │                │                  │
+   └──────────────────┘                └──────────────────┘
+```
+
+---
+
+## 6. DISTINKSI KRUSIAL: SPONTAN vs. INTENSIONAL
+
+```
+              PURPOSIVENESS ALAM
+                     │
+       ┌─────────────┴─────────────┐
+       │                           │
+       ▼                           ▼
+┌──────────────────┐      ┌──────────────────┐
+│    SPONTAN       │      │   INTENSIONAL    │
+│ (forma finalis   │      │ (forma finalis   │
+│  naturae         │      │  naturae         │
+│  spontanea)      │      │  intentionalis)  │
+├──────────────────┤      ├──────────────────┤
+│                  │      │                  │
+│ Alam menampilkan │      │ Ada AGEN yang    │
+│ keterarahan dari │      │ BERNIAT di balik │
+│ DIRINYA SENDIRI  │      │ alam             │
+│                  │      │                  │
+│ Tidak perlu      │      │ Mengandaikan     │
+│ mengandaikan     │      │ intensi          │
+│ agen             │      │                  │
+├──────────────────┤      ├──────────────────┤
+│ REFLECTIVE       │      │ DETERMINATIVE    │
+│ Judgment         │      │ Judgment         │
+│ (logis)          │      │ (transenden)     │
+├──────────────────┤      ├──────────────────┤
+│ Reason:          │      │ Reason:          │
+│ IMANEN           │      │ TRANSENDEN       │
+│ (dalam batas     │      │ (melampaui       │
+│  pengalaman)     │      │  pengalaman)     │
+├──────────────────┤      ├──────────────────┤
+│                  │      │                  │
+│   ✓ SAH          │      │   ✗ TIDAK SAH    │
+│                  │      │                  │
+└──────────────────┘      └──────────────────┘
+```
+
+---
+
+## 7. ARGUMEN TENTANG ORGANISME — Mengapa Mekanisme Tidak Cukup
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│  PRINSIP METODOLOGIS KANT:                                          │
+│                                                                     │
+│  "Gunakan MEKANISME sejauh mungkin!"                                │
+│  (di sinilah letak true physical bases)                             │
+│                                                                     │
+│         │                                                           │
+│         ▼                                                           │
+│  TETAPI: di ORGANISME, mekanisme tidak cukup                        │
+│                                                                     │
+│         │                                                           │
+│         ▼                                                           │
+│  MENGAPA?                                                           │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+
+         MEKANISME                          ORGANISME
+         ═════════                          ═════════
+
+    Bagian-bagian DULU              KESELURUHAN DULU
+         │                               │
+         ▼                               ▼
+    Keseluruhan = HASIL             Bagian-bagian = hanya
+    dari bagian yang                mungkin KARENA
+    sudah ada                       keseluruhan
+         │                               │
+         ▼                               ▼
+    ┌──────────────┐               ┌──────────────┐
+    │   Bagian A   │               │              │
+    │   Bagian B   │──► Mesin      │     IDE      │
+    │   Bagian C   │               │  (keseluruhan│
+    └──────────────┘               │   mendahului │
+                                   │   bagian)    │
+                                   │      │       │
+                                   │      ▼       │
+                                   │  Bagian A    │
+                                   │  Bagian B    │
+                                   │  Bagian C    │
+                                   └──────────────┘
+                                         │
+                                         ▼
+                                   Ide keseluruhan
+                                   dipandang sebagai
+                                   BASIS KAUSALITAS
+                                         │
+                                         ▼
+                                   = PURPOSE (tujuan)
+```
+
+### Contoh konkret: MATA
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│  "Lensa kristal mata bertujuan menyatukan cahaya                │
+│   dari satu titik ke satu titik di retina"                      │
+│                                                                 │
+│  Apa yang sebenarnya kita KATAKAN?                              │
+│                                                                 │
+│  ┌───────────────────────────────────────────────────────┐      │
+│  │ 1. Pikiran kita tentang kausalitas mata MENCAKUP      │      │
+│  │    pikiran tentang presentasi purpose                 │      │
+│  │                                                       │      │
+│  │ 2. Ide purpose BERFUNGSI SEBAGAI PRINSIP              │      │
+│  │    yang MEMANDU penyelidikan kita                     │      │
+│  │                                                       │      │
+│  │ 3. Memikirkan purpose MEMBANTU kita                   │      │
+│  │    merancang sarana (misal: kacamata)                  │      │
+│  └───────────────────────────────────────────────────────┘      │
+│                                                                 │
+│  Apa yang BELUM kita katakan?                                   │
+│                                                                 │
+│  ┌───────────────────────────────────────────────────────┐      │
+│  │ ✗ Bahwa alam BERTINDAK menurut presentasi purposes    │      │
+│  │ ✗ Bahwa ada INTENSI di balik mata                     │      │
+│  │ ✗ Bahwa ada kausalitas DI LUAR batas alam             │      │
+│  └───────────────────────────────────────────────────────┘      │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 8. PETA STATUS EPISTEMOLOGIS — Empat Posisi
+
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│                                                                         │
+│                        EMPAT POSISI YANG MUNGKIN                         │
+│                                                                         │
+├─────────────────────────────────────────────────────────────────────────┤
+│                                                                         │
+│  ┌─────────────────────────────────────────────────────────────────┐    │
+│  │ 1. "Organisme purposif, ENTAH intensional atau tidak"           │    │
+│  │                                                                 │    │
+│  │    Tipe: Reflective judgment, IMANEN                            │    │
+│  │    Status: ✓✓✓ SAH  ← Posisi Kant                              │    │
+│  │    Alasan: Menggantungkan pertanyaan tentang intensi             │    │
+│  └─────────────────────────────────────────────────────────────────┘    │
+│                                                                         │
+│  ┌─────────────────────────────────────────────────────────────────┐    │
+│  │ 2. "Alam MEMANG berniat (ada Designer)"                         │    │
+│  │                                                                 │    │
+│  │    Tipe: Determinative, TRANSENDEN                              │    │
+│  │    Status: ✗ TIDAK SAH                                          │    │
+│  │    Alasan: Menyarankan kausalitas di luar batas alam            │    │
+│  └─────────────────────────────────────────────────────────────────┘    │
+│                                                                         │
+│  ┌─────────────────────────────────────────────────────────────────┐    │
+│  │ 3. "Alam TIDAK berniat sama sekali"                             │    │
+│  │                                                                 │    │
+│  │    Tipe: Determinative (negatif), TRANSENDEN                    │    │
+│  │    Status: ✗ JUGA TIDAK SAH                                     │    │
+│  │    Alasan: Menolak intensi secara objektif juga melampaui       │    │
+│  │            apa yang bisa diberikan pengalaman!                   │    │
+│  └─────────────────────────────────────────────────────────────────┘    │
+│                                                                         │
+│  ┌─────────────────────────────────────────────────────────────────┐    │
+│  │ 4. Mekanisme murni                                              │    │
+│  │                                                                 │    │
+│  │    Tipe: IMANEN, determinatif                                   │    │
+│  │    Status: ✓ SAH — dan harus DIPRIORITASKAN sejauh mungkin      │    │
+│  │    Alasan: Basis fisik sejati untuk eksplanasi alam             │    │
+│  └─────────────────────────────────────────────────────────────────┘    │
+│                                                                         │
+└─────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 9. ALUR LOGIS KESELURUHAN
+
+```
+                    ┌────────────────────────┐
+                    │ Kita mengamati organisme│
+                    │ di alam                 │
+                    └───────────┬────────────┘
+                                │
+                                ▼
+                    ┌────────────────────────┐
+                    │ Coba jelaskan secara   │
+                    │ MEKANIS dulu           │
+                    └───────────┬────────────┘
+                                │
+                         Berhasil? ─── YA ──► Selesai. Gunakan
+                                │              hukum mekanis.
+                               TIDAK
+                                │
+                                ▼
+                    ┌────────────────────────┐
+                    │ Keseluruhan mendahului │
+                    │ bagian? Fungsi tidak   │
+                    │ bisa dipahami tanpa    │
+                    │ konsep TUJUAN?         │
+                    └───────────┬────────────┘
+                                │
+                               YA
+                                │
+                                ▼
+                    ┌────────────────────────┐
+                    │ Gunakan konsep PURPOSE │
+                    │ sebagai PRINSIP        │
+                    │ REFLEKTIF              │
+                    └───────────┬────────────┘
+                                │
+                                ▼
+                    ┌────────────────────────┐
+                    │ JANGAN tentukan:       │
+                    │ • Apakah intensional   │
+                    │ • Apakah non-intens.   │
+                    │                        │
+                    │ Biarkan TERBUKA        │
+                    └───────────┬────────────┘
+                                │
+                                ▼
+                    ┌────────────────────────┐
+                    │ Gunakan sebagai ALAT   │
+                    │ HEURISTIK untuk        │
+                    │ menyelidiki alam       │
+                    └────────────────────────┘
+```
+
+---
+
+## 10. REFLECTIVE vs. DETERMINATIVE JUDGMENT
+
+```
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│   DETERMINATIVE JUDGMENT          REFLECTIVE JUDGMENT            │
+│   ═══════════════════════         ══════════════════             │
+│                                                                  │
+│   Arah: ATAS → BAWAH             Arah: BAWAH → ATAS            │
+│                                                                  │
+│   ┌──────────────┐               ┌──────────────┐              │
+│   │  ATURAN/     │               │  PARTICULAR  │              │
+│   │  UNIVERSAL   │               │  (kasus      │              │
+│   │  (sudah ada) │               │   empiris)   │              │
+│   └──────┬───────┘               └──────┬───────┘              │
+│          │                               │                      │
+│          ▼                               ▼                      │
+│   ┌──────────────┐               ┌──────────────┐              │
+│   │  PARTICULAR  │               │  CARI ATURAN │              │
+│   │  (subsumsi   │               │  (refleksi   │              │
+│   │   di bawah   │               │   mencari    │              │
+│   │   aturan)    │               │   kesatuan)  │              │
+│   └──────────────┘               └──────────────┘              │
+│                                                                  │
+│   Memberi HUKUM                   Memberi MAKSIM                │
+│   pada ALAM                       pada DIRINYA SENDIRI          │
+│                                                                  │
+│   Lewat UNDERSTANDING             Untuk DIRINYA SENDIRI         │
+│                                   (self-legislating)            │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 11. JALAN TENGAH KANTIAN
+
+```
+                    ┌─────────────────────────────┐
+                    │                             │
+          ┌────────┤     JALAN TENGAH KANT       ├────────┐
+          │        │                             │        │
+          │        └─────────────────────────────┘        │
+          │                                               │
+          ▼                                               ▼
+┌─────────────────────┐                     ┌─────────────────────┐
+│  DESAIN-TEISME      │                     │  REDUKSIONISME      │
+│  DOGMATIS           │                     │  DOGMATIS           │
+│                     │                     │                     │
+│  "Alam BENAR-BENAR  │                     │  "Tidak ada tujuan  │
+│   punya Designer"   │                     │   di alam sama      │
+│                     │                     │   sekali"           │
+│  ✗ Transenden       │                     │  ✗ Juga transenden  │
+│  ✗ Melampaui        │                     │  ✗ Juga melampaui   │
+│    pengalaman       │                     │    pengalaman       │
+└─────────────────────┘                     └─────────────────────┘
+          │                                               │
+          │        ┌─────────────────────────────┐        │
+          │        │                             │        │
+          └───────►│  TELEOLOGI sebagai MAKSIM   │◄───────┘
+                   │  REFLEKTIF                  │
+                   │                             │
+                   │  • Bukan klaim metafisik    │
+                   │  • Bukan data empiris       │
+                   │  • ALAT yang dipinjam       │
+                   │    judgment untuk dirinya   │
+                   │    sendiri                  │
+                   │  • Memungkinkan investigasi │
+                   │    SISTEMATIS atas hukum    │
+                   │    empiris partikular       │
+                   │                             │
+                   └─────────────────────────────┘
+```
+
+---
+
+## 12. RINGKASAN FINAL: SATU DIAGRAM
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                                                                             │
+│                  ARSITEKTUR PENILAIAN TELEOLOGIS KANT                        │
+│                                                                             │
+│  ═══════════════════════════════════════════════════════════════════════════  │
+│                                                                             │
+│  LEVEL 1: PENGALAMAN                                                        │
+│  ┌───────────────────────────────────────────────────────────────────┐      │
+│  │  Kita mengamati organisme: jantung memompa, mata melihat,        │      │
+│  │  pohon tumbuh, sel membelah...                                   │      │
+│  └───────────────────────────────────────────────────────────────────┘      │
+│                               │                                             │
+│                               ▼                                             │
+│  LEVEL 2: MEKANISME (prioritas pertama)                                     │
+│  ┌───────────────────────────────────────────────────────────────────┐      │
+│  │  Jelaskan dengan hukum sebab-akibat biasa sejauh mungkin         │      │
+│  │  (fisika, kimia, dll.)                                           │      │
+│  └───────────────────────────────────────────────────────────────────┘      │
+│                               │                                             │
+│                    Tidak cukup untuk organisme                               │
+│                    (keseluruhan > bagian)                                    │
+│                               │                                             │
+│                               ▼                                             │
+│  LEVEL 3: TELEOLOGI REFLEKTIF (sah)                                         │
+│  ┌───────────────────────────────────────────────────────────────────┐      │
+│  │  Judgment meminjam konsep PURPOSE untuk dirinya sendiri           │      │
+│  │  → Sebagai PRINSIP HEURISTIK                                     │      │
+│  │  → Untuk memandu investigasi                                     │      │
+│  │  → TANPA menentukan apakah ada intensi atau tidak                │      │
+│  │  → Reason digunakan secara IMANEN                                │      │
+│  └───────────────────────────────────────────────────────────────────┘      │
+│                               │                                             │
+│                    ══════ BATAS YANG TIDAK BOLEH DILANGGAR ══════            │
+│                               │                                             │
+│                               ▼                                             │
+│  LEVEL 4: TELEOLOGI DETERMINATIF (tidak sah — transenden)                   │
+│  ┌───────────────────────────────────────────────────────────────────┐      │
+│  │  ✗ "Alam BENAR-BENAR berniat" (desain-teisme)                    │      │
+│  │  ✗ "Alam BENAR-BENAR tidak berniat" (reduksionisme dogmatis)     │      │
+│  │  → Keduanya melampaui batas pengalaman                           │      │
+│  │  → Keduanya adalah SPEKULASI, bukan pengetahuan                  │      │
+│  └───────────────────────────────────────────────────────────────────┘      │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## CATATAN PENUTUP
+
+Inti pemikiran Kant tentang penilaian teleologis dapat diringkas dalam satu kalimat:
+
+> **Teleologi adalah alat pikir yang DIPERLUKAN untuk memahami organisme, tetapi TIDAK BOLEH diangkat menjadi klaim tentang bagaimana alam sesungguhnya bekerja.**
+
+Ini adalah jalan tengah yang memungkinkan:
+- Biologi sebagai ilmu tentang fungsi (tanpa teleologi, kita tidak bisa bicara tentang "fungsi jantung")
+- Tanpa jatuh ke metafisika dogmatis (baik teisme maupun ateisme tentang alam)
+- Sambil tetap memprioritaskan penjelasan mekanis di mana pun mungkin
