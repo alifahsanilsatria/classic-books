@@ -1,4 +1,4 @@
-## Peta Konseptual: Arsitektur Tiga Kritik Kant dan Posisi *Critique of Judgment*
+# Peta Konseptual: Arsitektur Tiga Kritik Kant dan Posisi *Critique of Judgment*
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
@@ -232,7 +232,7 @@
 ```
 
 
-## Peta Pertarungan Epistemologis: Rasionalisme vs Empirisme vs Kant
+# Peta Pertarungan Epistemologis: Rasionalisme vs Empirisme vs Kant
 
 ```
  RASIONALISME                  EMPIRISME SKEPTIS             KANT
@@ -507,7 +507,7 @@
                                            dunia fenomenal
 ```
 
-## ARSITEKTUR PENGETAHUAN MENURUT KANT
+# ARSITEKTUR PENGETAHUAN MENURUT KANT
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════╗
@@ -896,7 +896,7 @@
 ```
 
 
-## Masalah Skematisme: Jembatan antara Konsep dan Intuisi
+# Masalah Skematisme: Jembatan antara Konsep dan Intuisi
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════╗
@@ -1252,7 +1252,7 @@
                                          └────────────┘
 ```
 
-## Klaim universalitas subjektif dalam penilaian rasa
+# Klaim universalitas subjektif dalam penilaian rasa
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════╗
