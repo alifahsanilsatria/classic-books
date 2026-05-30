@@ -93,15 +93,15 @@
    - [3. Kegagalan Alat Paksa Tradisional](#3-kegagalan-alat-paksa-tradisional)
    - [4. Krisis Fiskal dan Disintegrasi Struktur Besar](#4-krisis-fiskal-dan-disintegrasi-struktur-besar)
    - [5. Munculnya "Barbarian Modern"](#5-munculnya-barbarian-modern)
-   - [6. "Downsizing of Politics" — Pengecilan Skala Politik](#6-downsizing-of-politics--pengecilan-skala-politik)
+   - [6. "Downsizing of Politics": Pengecilan Skala Politik](#6-downsizing-of-politics-pengecilan-skala-politik)
    - [Kerangka Pemikiran Secara Keseluruhan](#kerangka-pemikiran-secara-keseluruhan)
 8. [History in Reverse & The Revenge of Nations](#history-in-reverse--the-revenge-of-nations)
-   - [Bagian Pertama: "History in Reverse" (Sejarah Berbalik Arah)](#bagian-pertama-history-in-reverse-sejarah-berbalik-arah)
-   - [Bagian Kedua: "The Revenge of Nations" (Balas Dendam Negara)](#bagian-kedua-the-revenge-of-nations-balas-dendam-negara)
+   - [Bagian Pertama: "History in Reverse": Sejarah Berbalik Arah](#bagian-pertama-history-in-reverse-sejarah-berbalik-arah)
+   - [Bagian Kedua: "The Revenge of Nations": Balas Dendam Negara](#bagian-kedua-the-revenge-of-nations-balas-dendam-negara)
    - [Inti Argumen Keseluruhan](#inti-argumen-keseluruhan)
 9. [The Nostalgia for Compulsion & Sovereign Individual](#the-nostalgia-for-compulsion--sovereign-individual)
-   - [Bagian 1: "The Nostalgia for Compulsion" (Kerinduan akan Paksaan)](#bagian-1-the-nostalgia-for-compulsion-kerinduan-akan-paksaan)
-   - [Bagian 2: "Get Ready to Duck" (Bersiaplah Berlindung)](#bagian-2-get-ready-to-duck-bersiaplah-berlindung)
+   - [Bagian 1: "The Nostalgia for Compulsion": Kerinduan akan Paksaan](#bagian-1-the-nostalgia-for-compulsion-kerinduan-akan-paksaan)
+   - [Bagian 2: "Get Ready to Duck": Bersiaplah Berlindung](#bagian-2-get-ready-to-duck-bersiaplah-berlindung)
    - [Prediksi Besar Penulis](#prediksi-besar-penulis)
    - [Nada dan Sudut Pandang Penulis](#nada-dan-sudut-pandang-penulis)
    - [Kesimpulan Tema Utama](#kesimpulan-tema-utama)
@@ -109,13 +109,13 @@
    - [Argumen Tentang Kemerosotan Negara-Bangsa](#argumen-tentang-kemerosotan-negara-bangsa)
    - [Analogi dengan Runtuhnya Feodalisme](#analogi-dengan-runtuhnya-feodalisme)
    - [Komersialisasi Kedaulatan](#komersialisasi-kedaulatan)
-   - ["Sovereign Individual" — Individu Berdaulat](#sovereign-individual--individu-berdaulat)
+   - ["Sovereign Individual": Individu Berdaulat](#sovereign-individual-individu-berdaulat)
    - [Konsekuensi Moral dan Sosial](#konsekuensi-moral-dan-sosial)
    - [Metafora Penutup: Don Quixote Abad ke-21](#metafora-penutup-don-quixote-abad-ke-21)
 10. [Reviving Laws of the March](#reviving-laws-of-the-march)
     - [1. Pemerintahan sebagai Entitas yang Bersaing](#1-pemerintahan-sebagai-entitas-yang-bersaing)
     - [2. Fragmentasi Kekuasaan di Masa Lalu](#2-fragmentasi-kekuasaan-di-masa-lalu)
-    - [3. Konsep "March" — Daerah Perbatasan](#3-konsep-march--daerah-perbatasan)
+    - [3. Konsep "March": Daerah Perbatasan](#3-konsep-march-daerah-perbatasan)
     - [4. Karakteristik Hukum dan Sosial March](#4-karakteristik-hukum-dan-sosial-march)
     - [5. Dua Konsep Hukum Kunci: Avowal dan Distraint](#5-dua-konsep-hukum-kunci-avowal-dan-distraint)
     - [6. Prediksi untuk Masyarakat Informasi](#6-prediksi-untuk-masyarakat-informasi)
@@ -125,9 +125,9 @@
     - [Prediksi dari *The Great Reckoning* yang Terbukti Benar](#prediksi-dari-the-great-reckoning-yang-terbukti-benar)
     - [Prediksi yang Belum Terkonfirmasi atau Belum Berkembang Penuh](#prediksi-yang-belum-terkonfirmasi-atau-belum-berkembang-penuh)
     - [Inti Pesan Paragraf Ini](#inti-pesan-paragraf-ini)
-    - [Bagian 1: "Looking Where Others Don't"](#bagian-1-looking-where-others-dont-melihat-di-tempat-yang-tidak-dilihat-orang-lain)
+    - [Bagian 1: "Looking Where Others Don't": Melihat di Tempat yang Tidak Dilihat Orang Lain](#bagian-1-looking-where-others-dont-melihat-di-tempat-yang-tidak-dilihat-orang-lain)
     - [Bagian Transisi: Pentingnya Kekerasan yang Diabaikan](#bagian-transisi-pentingnya-kekerasan-yang-diabaikan)
-    - [Bagian 2: "Another Megapolitical Pioneer"](#bagian-2-another-megapolitical-pioneer-pelopor-megapolitik-lainnya)
+    - [Bagian 2: "Another Megapolitical Pioneer": Pelopor Megapolitik Lainnya](#bagian-2-another-megapolitical-pioneer-pelopor-megapolitik-lainnya)
     - [Inti Pesan dan Makna Tersirat](#inti-pesan-dan-makna-tersirat)
     - [Relevansi Lane untuk Era yang Tidak Ia Bayangkan](#relevansi-lane-untuk-era-yang-tidak-ia-bayangkan)
     - [Metafora "Jendela ke Masa Depan melalui Masa Lalu"](#metafora-jendela-ke-masa-depan-melalui-masa-lalu)
@@ -189,9 +189,9 @@
     - [Penutup: era kepura-puraan yang disengaja](#penutup-era-kepura-puraan-yang-disengaja)
     - [Inti keseluruhan dan kaitannya dengan argumen besar](#inti-keseluruhan-dan-kaitannya-dengan-argumen-besar)
 19. [Persistent Make-believe dan So What?](#persistent-make-believe-dan-so-what)
-    - [Bagian 1 — "Persistent make-believe": fasad lama dipertahankan meski esensinya mati](#bagian-1--persistent-make-believe-fasad-lama-dipertahankan-meski-esensinya-mati)
-    - [Bagian 2 — "So What?": mengapa contoh Roma relevan untuk hari ini](#bagian-2--so-what-mengapa-contoh-roma-relevan-untuk-hari-ini)
-    - [Bagian 3 — Tesis besar: kita sedang hidup di pergantian musim sejarah](#bagian-3--tesis-besar-kita-sedang-hidup-di-pergantian-musim-sejarah)
+    - [Bagian 1: "Persistent make-believe": fasad lama dipertahankan meski esensinya mati](#bagian-1-persistent-make-believe-fasad-lama-dipertahankan-meski-esensinya-mati)
+    - [Bagian 2: "So What?": mengapa contoh Roma relevan untuk hari ini](#bagian-2-so-what-mengapa-contoh-roma-relevan-untuk-hari-ini)
+    - [Bagian 3: Tesis besar: kita sedang hidup di pergantian musim sejarah](#bagian-3-tesis-besar-kita-sedang-hidup-di-pergantian-musim-sejarah)
     - [Inti keseluruhan dan benang merah](#inti-keseluruhan-dan-benang-merah)
 20. [Ilusi Besar (The Grand Illusion) dan Megapolitics](#ilusi-besar-the-grand-illusion-dan-megapolitics)
 21. [Hidup Tanpa Daya Antisipasi dan Konsep Megapolitik](#hidup-tanpa-daya-antisipasi-dan-konsep-megapolitik)
@@ -237,12 +237,12 @@
 33. [The Peace of God dan Kontribusi Gereja terhadap Produktivitas](#the-peace-of-god-dan-kontribusi-gereja-terhadap-produktivitas)
 34. [Vulnerability to Violence: Kerentanan Masyarakat Agraris](#vulnerability-to-violence-kerentanan-masyarakat-agraris)
 35. [Paradise Lost: Pertanian sebagai Firdaus yang Hilang](#paradise-lost-pertanian-sebagai-firdaus-yang-hilang)
-    - [Bagian Pertama — "Then and Now" (Dulu dan Sekarang)](#bagian-pertama--then-and-now-dulu-dan-sekarang)
-    - [Bagian Kedua — "Myths Betrayed" (Mitos yang Dikhianati)](#bagian-kedua--myths-betrayed-mitos-yang-dikhianati)
+    - [Bagian Pertama: "Then and Now" (Dulu dan Sekarang)](#bagian-pertama-then-and-now-dulu-dan-sekarang)
+    - [Bagian Kedua: "Myths Betrayed" (Mitos yang Dikhianati)](#bagian-kedua-myths-betrayed-mitos-yang-dikhianati)
     - [Benang Merah Keduanya](#benang-merah-keduanya)
     - [Tesis utama: nilai sebagai "teknologi sosial"](#tesis-utama-nilai-sebagai-teknologi-sosial)
     - [Kondisi megapolitik era feodal](#kondisi-megapolitik-era-feodal)
-    - ["Uniforms or Divergences?" — seragam versus pembeda](#uniforms-or-divergences--seragam-versus-pembeda)
+    - ["Uniforms or Divergences?": seragam versus pembeda](#uniforms-or-divergences-seragam-versus-pembeda)
     - [Perang bukan monopoli negara](#perang-bukan-monopoli-negara)
     - [Mengapa sumpah menjadi sangat penting](#mengapa-sumpah-menjadi-sangat-penting)
     - [Poin psikologis dan institusional di akhir](#poin-psikologis-dan-institusional-di-akhir)
@@ -253,9 +253,9 @@
     - [Solusinya: kesatriaan dan kewarganegaraan](#solusinya-kesatriaan-dan-kewarganegaraan)
     - [Peran mitos dan rasionalisasi](#peran-mitos-dan-rasionalisasi)
     - [Fungsi konkret mitos kesatriaan di era feodal](#fungsi-konkret-mitos-kesatriaan-di-era-feodal)
-    - [Before Nationality — Sebelum adanya kebangsaan](#before-nationality--sebelum-adanya-kebangsaan)
-    - [Corporate Sovereignty — Kedaulatan korporasi](#corporate-sovereignty--kedaulatan-korporasi)
-    - [The Vow — Sumpah dan keekstrimannya](#the-vow--sumpah-dan-keekstrimannya)
+    - [Before Nationality: Sebelum adanya kebangsaan](#before-nationality-sebelum-adanya-kebangsaan)
+    - [Corporate Sovereignty: Kedaulatan korporasi](#corporate-sovereignty-kedaulatan-korporasi)
+    - [The Vow: Sumpah dan keekstrimannya](#the-vow-sumpah-dan-keekstrimannya)
 
 
 ---
@@ -1452,7 +1452,7 @@ Bagian paling provokatif: penulis berpendapat bahwa saat negara-bangsa melemah, 
 
 Penulis menyebut kelompok-kelompok ini sebagai *"microparasites feeding on a dying system"* — parasit mikro yang memakan sistem yang sekarat. Mereka sudah menyusup ke dalam struktur negara tanpa mengubah penampilan luarnya secara mencolok.
 
-## 6. "Downsizing of Politics" — Pengecilan Skala Politik
+## 6. "Downsizing of Politics": Pengecilan Skala Politik
 
 Konsep kunci di bagian akhir: **mikroprosesor mengurangi ukuran minimum kelompok yang efektif dalam menggunakan dan mengendalikan kekerasan.** Logikanya:
 - Di era industri, hanya negara besar yang sanggup memiliki tentara, polisi, dan birokrasi pemaksa
@@ -1633,7 +1633,7 @@ Konsep kunci yang diperkenalkan adalah **"commercialization of sovereignty"** (k
 
 Penulis menarik paralel dengan **privatisasi industri pada akhir abad ke-20**: pabrik baja, perusahaan telepon, tambang, dan kereta api yang dulu dinasionalisasi kini diprivatisasi di seluruh dunia. Langkah logis berikutnya, menurut mereka, adalah **"denasionalisasi individu"** — bentuk privatisasi paling fundamental.
 
-## "Sovereign Individual" — Individu Berdaulat
+## "Sovereign Individual": Individu Berdaulat
 
 Tokoh utama dalam visi ini adalah **"Sovereign Individual"** (Individu Berdaulat) milenium baru, yang memiliki ciri-ciri:
 
@@ -1675,7 +1675,7 @@ Di era pra-modern, persamaan kekuasaan (the power equation) tidak memungkinkan s
 
 Penulis memprediksi: karena pemerintahan modern kini menghadapi tantangan baru yang membuatnya lebih lemah, kondisi semacam ini akan segera muncul lagi.
 
-## 3. Konsep "March" — Daerah Perbatasan
+## 3. Konsep "March": Daerah Perbatasan
 
 Inti paragraf adalah konsep **march** (daerah perbatasan yang diperebutkan). Ketika jangkauan raja-raja lemah dan klaim dua otoritas tumpang tindih di perbatasan, tidak ada pihak yang bisa menang mutlak. Akibatnya, terbentuklah zona perbatasan yang bertahan selama puluhan bahkan ratusan tahun dengan karakter unik.
 
@@ -2515,7 +2515,7 @@ Sebagai catatan, teks ini juga berasal dari *The Sovereign Individual* (Davidson
 
 Teks ini terdiri dari tiga bagian yang saling terhubung: penutup pembahasan Roma ("Persistent make-believe"), lalu peralihan ke relevansinya bagi masa kini ("So What?"), dan akhirnya pernyataan tesis besar buku. Berikut penjelasan rincinya, mengikuti alur penulis.
 
-## Bagian 1 — "Persistent make-believe": fasad lama dipertahankan meski esensinya mati
+## Bagian 1: "Persistent make-believe": fasad lama dipertahankan meski esensinya mati
 
 Bagian ini menyelesaikan studi kasus Roma dengan satu poin tajam: kepura-puraan kolektif itu bekerja dengan mempertahankan **fasad (kulit luar)** sistem lama, bahkan ketika esensinya sudah "dirusak oleh kebarbaran." Penulis memberi daftar konkret tentang bagaimana bentuk-bentuk lama tetap dipertahankan setelah kaisar terakhir digantikan oleh seorang "letnan" barbar:
 
@@ -2523,7 +2523,7 @@ Bentuk-bentuk pemerintahan lama tetap sama. Senat masih bersidang. Jabatan prefe
 
 Namun, di balik semua kesinambungan formal itu, penulis menutup dengan kalimat Will Durant yang menusuk: di Barat, kekaisaran besar itu sudah tiada (*"the great Empire was no more"*). Inilah inti dari "make-believe": semua simbol, lembaga, dan ritual masih berjalan, tetapi substansinya—kekuasaan dan realitas politik yang sesungguhnya—sudah lenyap. Orang bisa hidup di tengah kekosongan itu tanpa menyadarinya karena cangkangnya tampak utuh.
 
-## Bagian 2 — "So What?": mengapa contoh Roma relevan untuk hari ini
+## Bagian 2: "So What?": mengapa contoh Roma relevan untuk hari ini
 
 Di sini penulis beralih dari sejarah ke tujuan bukunya, menjawab pertanyaan yang wajar muncul di benak pembaca: "Lalu apa hubungannya dengan saya?"
 
@@ -2547,7 +2547,7 @@ Penulis lalu menegaskan bahwa tidak ada hal semacam itu yang terjadi sekarang—
 
 **Konservatisme dengan "c" kecil.** Penulis lalu menjelaskan akar psikologis kebutaan ini. Manusia di mana pun selalu bersifat konservatif sampai derajat tertentu—dengan "c" kecil (artinya bukan ideologi politik, melainkan kecenderungan watak untuk mempertahankan yang sudah ada). Ini menyiratkan keengganan untuk berpikir dalam kerangka membubarkan konvensi sosial yang dihormati, menjungkirbalikkan institusi yang diterima, dan menentang hukum serta nilai yang menjadi pegangan hidup. Sedikit orang yang mau membayangkan bahwa perubahan kecil dalam iklim, teknologi, atau variabel lain bisa memutus hubungan mereka dengan "dunia ayah-ayah mereka" (warisan masa lalu). Penulis lalu menutup paralelnya dengan kalimat ringkas dan tajam: orang Romawi enggan mengakui perubahan di sekitar mereka—dan kita pun begitu.
 
-## Bagian 3 — Tesis besar: kita sedang hidup di pergantian musim sejarah
+## Bagian 3: Tesis besar: kita sedang hidup di pergantian musim sejarah
 
 Bagian penutup adalah pernyataan tesis utama buku, ditujukan langsung kepada pembaca.
 
@@ -3739,7 +3739,7 @@ Bagian ini adalah puncak dari argumen yang dibangun di tiga subbab sebelumnya. D
 
 Teks ini berasal dari buku **The Sovereign Individual** (1997) karya James Dale Davidson dan William Rees-Mogg. Kedua paragraf yang Anda kutip membangun satu argumen inti: **bahwa kita sekarang berada di ambang transformasi besar yang mirip dengan runtuhnya tatanan Abad Pertengahan sekitar 500 tahun lalu — dan, seperti orang-orang pada masa itu, kebanyakan dari kita gagal melihatnya.** Berikut penjelasan rincinya.
 
-## Bagian Pertama — "Then and Now" (Dulu dan Sekarang)
+## Bagian Pertama: "Then and Now" (Dulu dan Sekarang)
 
 Penulis membuka dengan menarik paralel antara masa kini dengan pergantian abad ke-15 menuju ke-16 (sekitar tahun 1500). Argumennya bertumpu pada beberapa lapisan:
 
@@ -3751,7 +3751,7 @@ Penulis membuka dengan menarik paralel antara masa kini dengan pergantian abad k
 
 Untuk memperkuat ini, penulis mengutip **Johan Huizinga**, sejarawan abad pertengahan terkenal (penulis *The Waning of the Middle Ages*): para penulis sejarah abad ke-15 hampir semuanya keliru menilai zaman mereka sendiri, dan kekuatan-kekuatan penggerak yang sesungguhnya luput dari perhatian mereka.
 
-## Bagian Kedua — "Myths Betrayed" (Mitos yang Dikhianati)
+## Bagian Kedua: "Myths Betrayed" (Mitos yang Dikhianati)
 
 Bagian ini mempertajam argumen dengan konsep **mitos yang melegitimasi tatanan lama**.
 
@@ -3790,7 +3790,7 @@ Penulis menjelaskan mengapa kesatriaan muncul. Pada era feodal, **teknologi pert
 
 Sebelum Revolusi Bubuk Mesiu (Gunpowder Revolution), perang biasanya dilakukan oleh kelompok kecil orang bersenjata. Bahkan raja paling berkuasa pun tidak memiliki *militum perpetuum*—tentara tetap atau tentara berdiri (standing army). Karena itu raja tidak bisa langsung memerintahkan rakyat untuk berperang. Ia bergantung pada **rantai kesetiaan (chain of allegiance)** yang bersifat hierarkis: raja menarik dukungan dari para bangsawan besar (vassal-nya), yang pada gilirannya menarik dari bangsawan yang lebih kecil, yang lalu menarik dari para kesatria, hingga turun ke orang berstatus paling rendah yang masih dianggap layak memanggul senjata. Dukungan militer mengalir ke bawah melalui hubungan personal antara tuan dan pengikut, bukan melalui institusi negara.
 
-## "Uniforms or Divergences?" — seragam versus pembeda
+## "Uniforms or Divergences?": seragam versus pembeda
 
 Bagian ini membuat kontras yang sangat penting dan sebenarnya simbolik.
 
@@ -3889,7 +3889,7 @@ Mengapa ikatan ini begitu vital? Karena pada masa itu, **perang-perang pribadi y
 
 Bagian ini melanjutkan argumen besar buku *The Sovereign Individual*, kini dengan fokus pada bagaimana kedaulatan (sovereignty) di Abad Pertengahan bekerja secara *sangat berbeda* dari dunia modern. Terbagi dalam tiga subbagian—**"Before Nationality"**, **"Corporate Sovereignty"**, dan **"The Vow"**—seluruh bagian ini ingin membuktikan satu hal: di era feodal, yang mengikat kekuasaan bukanlah identitas nasional atau kewajiban kepada negara, melainkan **ikatan personal dan kehormatan pribadi** yang dijamin oleh sumpah.
 
-## Before Nationality — Sebelum adanya kebangsaan
+## Before Nationality: Sebelum adanya kebangsaan
 
 Penulis membuka dengan kontras tajam terhadap dunia modern: konsep **nasionalitas/kebangsaan (nationality)** hampir tidak berperan sama sekali dalam menentukan kedaulatan di Abad Pertengahan.
 
@@ -3903,7 +3903,7 @@ Untuk membuat ini terasa konkret bagi pembaca modern, penulis memberi analogi ya
 
 Kekuasaan berpindah lewat **garis keturunan (hereditary descent)**. Kota dan negara berganti penguasa **seperti barang antik berganti pemilik** (perumpamaan yang menekankan bahwa wilayah diperlakukan sebagai harta, bukan sebagai bangsa). Dalam banyak kasus, penguasa bahkan **bukan penduduk asli** dari wilayah yang mereka miliki—kadang mereka tidak bisa berbahasa setempat, atau berbicara dengan buruk dan beraksen kental. Tetapi semua itu **tidak penting** bagi ikatan kewajiban personal: tidak ada bedanya apakah seorang Spanyol menjadi raja Athena, atau seorang Austria menjadi raja Spanyol. Yang mengikat adalah hubungan personal, bukan kesamaan asal-usul.
 
-## Corporate Sovereignty — Kedaulatan korporasi
+## Corporate Sovereignty: Kedaulatan korporasi
 
 Subbagian ini memperkenalkan fenomena yang lebih asing lagi bagi nalar modern: kedaulatan tidak hanya dijalankan oleh raja, tetapi juga oleh **korporasi religius (religious corporations)** seperti **Knights Templar (Ksatria Templar), Knights of St. John (Ksatria St. Yohanes), dan Teutonic Knights (Ksatria Teutonik).**
 
@@ -3913,7 +3913,7 @@ Poin paling penting di sini adalah bahwa ordo-ordo ini hampir merupakan **kebali
 
 Penulis lalu merangkum prinsip dasarnya: dalam skema pemerintahan abad pertengahan yang terpecah-pecah (fragmented), mobilisasi dukungan **tidak bergantung pada identitas nasional atau kewajiban kepada negara** seperti di zaman modern, melainkan pada **loyalitas personal dan ikatan adat (customary ties)** yang harus dijunjung sebagai **soal kehormatan pribadi.** Dan inilah kuncinya: sumpah semacam itu bisa diikrarkan oleh **siapa saja, dari mana saja**, asalkan ia dianggap layak menurut **stasiun/kedudukannya dalam kehidupan (station in life).** Yang menentukan adalah status sosial dan kehormatan, bukan tempat lahir atau kewarganegaraan.
 
-## The Vow — Sumpah dan keekstrimannya
+## The Vow: Sumpah dan keekstrimannya
 
 Subbagian terpanjang ini menggali fenomena **sumpah kesatriaan (chivalric vow)** secara mendalam, dengan banyak contoh historis untuk menunjukkan betapa serius—dan betapa irasional—orang abad pertengahan memperlakukan sumpah mereka.
 
