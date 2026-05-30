@@ -253,9 +253,9 @@
     - [Solusinya: kesatriaan dan kewarganegaraan](#solusinya-kesatriaan-dan-kewarganegaraan)
     - [Peran mitos dan rasionalisasi](#peran-mitos-dan-rasionalisasi)
     - [Fungsi konkret mitos kesatriaan di era feodal](#fungsi-konkret-mitos-kesatriaan-di-era-feodal)
-    - ["Before Nationality" — Sebelum adanya kebangsaan](#before-nationality-sebelum-adanya-kebangsaan)
-    - ["Corporate Sovereignty" — Kedaulatan korporasi](#corporate-sovereignty-kedaulatan-korporasi)
-    - ["The Vow" — Sumpah dan keekstrimannya](#the-vow-sumpah-dan-keekstrimannya)
+    - [Before Nationality — Sebelum adanya kebangsaan](#before-nationality-sebelum-adanya-kebangsaan)
+    - [Corporate Sovereignty — Kedaulatan korporasi](#corporate-sovereignty-kedaulatan-korporasi)
+    - [The Vow — Sumpah dan keekstrimannya](#the-vow-sumpah-dan-keekstrimannya)
 
 
 ---
@@ -3889,7 +3889,7 @@ Mengapa ikatan ini begitu vital? Karena pada masa itu, **perang-perang pribadi y
 
 Bagian ini melanjutkan argumen besar buku *The Sovereign Individual*, kini dengan fokus pada bagaimana kedaulatan (sovereignty) di Abad Pertengahan bekerja secara *sangat berbeda* dari dunia modern. Terbagi dalam tiga subbagian—**"Before Nationality"**, **"Corporate Sovereignty"**, dan **"The Vow"**—seluruh bagian ini ingin membuktikan satu hal: di era feodal, yang mengikat kekuasaan bukanlah identitas nasional atau kewajiban kepada negara, melainkan **ikatan personal dan kehormatan pribadi** yang dijamin oleh sumpah.
 
-## "Before Nationality" — Sebelum adanya kebangsaan
+## Before Nationality — Sebelum adanya kebangsaan
 
 Penulis membuka dengan kontras tajam terhadap dunia modern: konsep **nasionalitas/kebangsaan (nationality)** hampir tidak berperan sama sekali dalam menentukan kedaulatan di Abad Pertengahan.
 
@@ -3903,7 +3903,7 @@ Untuk membuat ini terasa konkret bagi pembaca modern, penulis memberi analogi ya
 
 Kekuasaan berpindah lewat **garis keturunan (hereditary descent)**. Kota dan negara berganti penguasa **seperti barang antik berganti pemilik** (perumpamaan yang menekankan bahwa wilayah diperlakukan sebagai harta, bukan sebagai bangsa). Dalam banyak kasus, penguasa bahkan **bukan penduduk asli** dari wilayah yang mereka miliki—kadang mereka tidak bisa berbahasa setempat, atau berbicara dengan buruk dan beraksen kental. Tetapi semua itu **tidak penting** bagi ikatan kewajiban personal: tidak ada bedanya apakah seorang Spanyol menjadi raja Athena, atau seorang Austria menjadi raja Spanyol. Yang mengikat adalah hubungan personal, bukan kesamaan asal-usul.
 
-## "Corporate Sovereignty" — Kedaulatan korporasi
+## Corporate Sovereignty — Kedaulatan korporasi
 
 Subbagian ini memperkenalkan fenomena yang lebih asing lagi bagi nalar modern: kedaulatan tidak hanya dijalankan oleh raja, tetapi juga oleh **korporasi religius (religious corporations)** seperti **Knights Templar (Ksatria Templar), Knights of St. John (Ksatria St. Yohanes), dan Teutonic Knights (Ksatria Teutonik).**
 
@@ -3913,7 +3913,7 @@ Poin paling penting di sini adalah bahwa ordo-ordo ini hampir merupakan **kebali
 
 Penulis lalu merangkum prinsip dasarnya: dalam skema pemerintahan abad pertengahan yang terpecah-pecah (fragmented), mobilisasi dukungan **tidak bergantung pada identitas nasional atau kewajiban kepada negara** seperti di zaman modern, melainkan pada **loyalitas personal dan ikatan adat (customary ties)** yang harus dijunjung sebagai **soal kehormatan pribadi.** Dan inilah kuncinya: sumpah semacam itu bisa diikrarkan oleh **siapa saja, dari mana saja**, asalkan ia dianggap layak menurut **stasiun/kedudukannya dalam kehidupan (station in life).** Yang menentukan adalah status sosial dan kehormatan, bukan tempat lahir atau kewarganegaraan.
 
-## "The Vow" — Sumpah dan keekstrimannya
+## The Vow — Sumpah dan keekstrimannya
 
 Subbagian terpanjang ini menggali fenomena **sumpah kesatriaan (chivalric vow)** secara mendalam, dengan banyak contoh historis untuk menunjukkan betapa serius—dan betapa irasional—orang abad pertengahan memperlakukan sumpah mereka.
 
